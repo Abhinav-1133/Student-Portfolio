@@ -45,12 +45,9 @@ Hello! I am BHEEMRAO ABHINAV motivated and enthusiastic individual with a high s
 
 ## Contact Information
 
-* **Name:** [Your Name]
-* **Email:** [Your Email Address]
-* **Phone:** [Your Phone Number]
-* **Location:** [City, State]
+* **Name:** [BHEEMRAO ABHINAV]
+* **Email:** [bheemrao.abhinav@gmail.com]
 * ![GitHub Logo](images/logo.png)
 * **github:** [https://github.com/Abhinav-1133]
-* **LinkedIn:** [LinkedIn Profile URL]
-* **GitHub/Portfolio:** [GitHub or Portfolio URL]
+
 ---
