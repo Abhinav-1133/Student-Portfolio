@@ -7,10 +7,11 @@ Hello! I am BHEEMRAO ABHINAV motivated and enthusiastic individual with a high s
 
 ## Education
 
-**High School**
+Bachelor's Degree — Mahatma Gandhi Institute of Technology (MGIT) 
 
-* School: [ST.JHS]
-* Year of Completion: [2022]
+12th / Intermediate — Sri Chaitanya Junior College 
+
+10th — St. JHS High School, 2022 
 
 ## Skills
 
